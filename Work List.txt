@@ -1,0 +1,17 @@
+Puzzle Room One:
+Move Dresser
+Move Plant 
+Tip Water
+
+Puzzle Room Two:
+
+
+UI:
+Battery Life
+Fill Amount
+
+Floor 1 Cam Pos: 0, 11.5, -3
+Floor 1 Cam Rotation: 75, 0, 0
+
+Attic Position: 0, 15, -3
+Attic Rotation: 16, 0, 0
