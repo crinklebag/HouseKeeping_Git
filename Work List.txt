@@ -5,10 +5,31 @@ Tip Water
 
 Puzzle Room Two:
 
+In Sun:
+solar powered house objects that need to be turned on
+maybe a solar panel on the back of the robot
+plants
+cats
+
+
+Out of Sun:
+bird
+chocolate bar - things that can melt
+crayons
+solar powered objects that need to be turned off
+
+Solar Power Objects:
+Lights
+Chargers
+Speakers
+AC/Heating
+Fans
+pond/fountain
 
 UI:
 Battery Life
-Fill Amount
+** Fill Amount **
+Timed Levels Maybe
 
 Floor 1 Cam Pos: 0, 11.5, -3
 Floor 1 Cam Rotation: 75, 0, 0
