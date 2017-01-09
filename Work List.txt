@@ -34,5 +34,5 @@ Timed Levels Maybe
 Floor 1 Cam Pos: 0, 11.5, -3
 Floor 1 Cam Rotation: 75, 0, 0
 
-Attic Position: 0, 15, -3
-Attic Rotation: 16, 0, 0
+Attic Position: 0, 15, -3.5
+Attic Rotation: 10,0,0
