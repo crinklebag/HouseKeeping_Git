@@ -36,3 +36,7 @@ Floor 1 Cam Rotation: 75, 0, 0
 
 Attic Position: 0, 15, -3.5
 Attic Rotation: 10,0,0
+
+outside position:-17.5, 12.5, 30
+outside rotation: 40, 90, 0
+player position: -11, 0, 36
