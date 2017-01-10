@@ -41,7 +41,7 @@ public class DemoController : MonoBehaviour {
             lights[2].SetActive(false);
         }
 
-        if (Input.GetKeyDown(KeyCode.Alpha3)) {
+        if (Input.GetKeyDown(KeyCode.Alpha2)) {
             Camera.main.transform.position = rm2CamPos;
             Camera.main.transform.rotation = Quaternion.Euler(rm2CamRot);
             character.transform.position = rm2CharPos;
@@ -51,7 +51,7 @@ public class DemoController : MonoBehaviour {
             lights[2].SetActive(false);
         }
 
-        if (Input.GetKeyDown(KeyCode.Alpha2)) {
+        if (Input.GetKeyDown(KeyCode.Alpha3)) {
             Camera.main.transform.position = BYCamPos;
             Camera.main.transform.rotation = Quaternion.Euler(BYCamRot);
             character.transform.position = BYCharPos;
